@@ -5,11 +5,11 @@ Polynomials can be used to approximate complicated curves, for example, the shap
 A relevant application is the evaluation of the natural logarithm and trigonometric functions: pick a few known data points, create a lookup table, and interpolate between those data points. 
 This results in significantly faster computations. Polynomial interpolation also forms the basis for algorithms in numerical quadrature and numerical ordinary differential equations and Secure Multi Party Computation, Secret Sharing schemes. 
 ## Implementation
- - ![Screenshot](definition.PNG)
- - ![Screenshot](examples.PNG)
+![Screenshot](definition.PNG)
+![Screenshot](examples.PNG)
 
 Here is a sample test of the example found in wikipedia and its result
- - ![Screenshot](exampleCode.PNG)
+![Screenshot](exampleCode.PNG)
 
 Sources: 
  - https://en.wikipedia.org/wiki/Lagrange_polynomial
