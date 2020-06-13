@@ -2,8 +2,6 @@ from sympy import *
 
 class Polynomial:
     x, y = symbols('x y')
-    Eqn = x
-
     array_size  = 0
 
     x_values = []
